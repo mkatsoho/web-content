@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>IMG_0831.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0831.JPG' width='400'/>]]></description>
+            <Point id="2">
+                <coordinates>-82.82633055555556,27.967186111111108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>IMG_0832.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0832.JPG' width='400'/>]]></description>
+            <Point id="4">
+                <coordinates>-82.82626388888889,27.96714722222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>IMG_0833.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0833.JPG' width='400'/>]]></description>
+            <Point id="6">
+                <coordinates>-82.82559166666667,27.966805555555553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>IMG_0834.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0834.JPG' width='400'/>]]></description>
+            <Point id="8">
+                <coordinates>-82.82544722222222,27.966749999999998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>IMG_0835.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0835.JPG' width='400'/>]]></description>
+            <Point id="10">
+                <coordinates>-82.82530277777778,27.96669722222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>IMG_0836.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0836.JPG' width='400'/>]]></description>
+            <Point id="12">
+                <coordinates>-82.82437222222222,27.966402777777777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>IMG_0837.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0837.JPG' width='400'/>]]></description>
+            <Point id="14">
+                <coordinates>-82.82421944444444,27.966355555555555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>IMG_0838.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0838.JPG' width='400'/>]]></description>
+            <Point id="16">
+                <coordinates>-82.82399722222222,27.966319444444444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>IMG_0839.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0839.JPG' width='400'/>]]></description>
+            <Point id="18">
+                <coordinates>-82.82395277777778,27.96631111111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>IMG_0840.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0840.JPG' width='400'/>]]></description>
+            <Point id="20">
+                <coordinates>-82.82395277777778,27.96631111111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>IMG_0841.MOV</name>
+            <description><![CDATA[ <video width="400" controls> <source src='images/IMG_0840.JPG' type="video/mp4"> </video> ]]></description>
+            <Point id="22">
+                <coordinates>-82.8239,27.9663,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>IMG_0842.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0842.JPG' width='400'/>]]></description>
+            <Point id="24">
+                <coordinates>-82.82570555555556,27.956730555555556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>IMG_0843.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0843.JPG' width='400'/>]]></description>
+            <Point id="26">
+                <coordinates>-82.82641666666666,27.956063888888888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>IMG_0844.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0844.JPG' width='400'/>]]></description>
+            <Point id="28">
+                <coordinates>-82.82656944444444,27.95591111111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>IMG_0845.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0845.JPG' width='400'/>]]></description>
+            <Point id="30">
+                <coordinates>-82.82678888888888,27.955694444444443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>IMG_0846.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0846.JPG' width='400'/>]]></description>
+            <Point id="32">
+                <coordinates>-82.82678888888888,27.955694444444443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>IMG_0847.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0847.JPG' width='400'/>]]></description>
+            <Point id="34">
+                <coordinates>-82.82776666666666,27.954722222222223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>IMG_0848.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0848.JPG' width='400'/>]]></description>
+            <Point id="36">
+                <coordinates>-82.8279111111111,27.95457222222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>IMG_0849.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0849.JPG' width='400'/>]]></description>
+            <Point id="38">
+                <coordinates>-82.82807222222222,27.954416666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>IMG_0850.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0850.JPG' width='400'/>]]></description>
+            <Point id="40">
+                <coordinates>-82.82950555555556,27.952972222222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>IMG_0851.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0851.JPG' width='400'/>]]></description>
+            <Point id="42">
+                <coordinates>-82.82963611111111,27.952844444444445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>IMG_0852.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0852.JPG' width='400'/>]]></description>
+            <Point id="44">
+                <coordinates>-82.8297361111111,27.95274722222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>IMG_0853.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0853.JPG' width='400'/>]]></description>
+            <Point id="46">
+                <coordinates>-82.8322361111111,27.950255555555554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>IMG_0854.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0854.JPG' width='400'/>]]></description>
+            <Point id="48">
+                <coordinates>-82.83239722222221,27.95006111111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>IMG_0855.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0855.JPG' width='400'/>]]></description>
+            <Point id="50">
+                <coordinates>-82.83246666666666,27.94997222222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>IMG_0856.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0856.JPG' width='400'/>]]></description>
+            <Point id="52">
+                <coordinates>-82.83262777777777,27.949761111111112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>IMG_0857.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0857.JPG' width='400'/>]]></description>
+            <Point id="54">
+                <coordinates>-82.83314444444444,27.948925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>IMG_0858.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0858.JPG' width='400'/>]]></description>
+            <Point id="56">
+                <coordinates>-82.83324444444445,27.948755555555557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>IMG_0859.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0859.JPG' width='400'/>]]></description>
+            <Point id="58">
+                <coordinates>-82.83338888888889,27.948463888888888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>IMG_0860.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0860.JPG' width='400'/>]]></description>
+            <Point id="60">
+                <coordinates>-82.83608055555555,27.943505555555557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>IMG_0861.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0861.JPG' width='400'/>]]></description>
+            <Point id="62">
+                <coordinates>-82.83598333333333,27.942969444444444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>IMG_0862.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0862.JPG' width='400'/>]]></description>
+            <Point id="64">
+                <coordinates>-82.83599722222222,27.94288611111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>IMG_0863.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0863.JPG' width='400'/>]]></description>
+            <Point id="66">
+                <coordinates>-82.83605277777777,27.942855555555557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>IMG_0864.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0864.JPG' width='400'/>]]></description>
+            <Point id="68">
+                <coordinates>-82.83756388888888,27.940219444444445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>IMG_0865.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0865.JPG' width='400'/>]]></description>
+            <Point id="70">
+                <coordinates>-82.83771388888889,27.940008333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>IMG_0866.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0866.JPG' width='400'/>]]></description>
+            <Point id="72">
+                <coordinates>-82.83786111111111,27.93976111111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>IMG_0867.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0867.JPG' width='400'/>]]></description>
+            <Point id="74">
+                <coordinates>-82.83907222222221,27.938019444444446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>IMG_0868.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0868.JPG' width='400'/>]]></description>
+            <Point id="76">
+                <coordinates>-82.83924722222221,27.93773888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>IMG_0869.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0869.JPG' width='400'/>]]></description>
+            <Point id="78">
+                <coordinates>-82.83930277777777,27.937658333333335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>IMG_0870.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0870.JPG' width='400'/>]]></description>
+            <Point id="80">
+                <coordinates>-82.83981388888888,27.936416666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>IMG_0871.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0871.JPG' width='400'/>]]></description>
+            <Point id="82">
+                <coordinates>-82.83985277777778,27.936297222222223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>IMG_0872.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0872.JPG' width='400'/>]]></description>
+            <Point id="84">
+                <coordinates>-82.83998055555556,27.93585277777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>IMG_0873.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0873.JPG' width='400'/>]]></description>
+            <Point id="86">
+                <coordinates>-82.84002777777778,27.935661111111113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>IMG_0874.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0874.JPG' width='400'/>]]></description>
+            <Point id="88">
+                <coordinates>-82.84008055555555,27.93548888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>IMG_0875.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0875.JPG' width='400'/>]]></description>
+            <Point id="90">
+                <coordinates>-82.84009444444445,27.935402777777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>IMG_0877.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0877.JPG' width='400'/>]]></description>
+            <Point id="92">
+                <coordinates>-82.84168055555556,27.930255555555558,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>IMG_0878.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0878.JPG' width='400'/>]]></description>
+            <Point id="94">
+                <coordinates>-82.8417361111111,27.930052777777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>IMG_0879.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0879.JPG' width='400'/>]]></description>
+            <Point id="96">
+                <coordinates>-82.84286388888889,27.925227777777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>IMG_0880.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0880.JPG' width='400'/>]]></description>
+            <Point id="98">
+                <coordinates>-82.84310277777777,27.924180555555555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>IMG_0881.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0881.JPG' width='400'/>]]></description>
+            <Point id="100">
+                <coordinates>-82.843125,27.92407777777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>IMG_0882.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0882.JPG' width='400'/>]]></description>
+            <Point id="102">
+                <coordinates>-82.84316944444444,27.923897222222223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>IMG_0883.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0883.JPG' width='400'/>]]></description>
+            <Point id="104">
+                <coordinates>-82.84389444444444,27.920711111111114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>IMG_0884.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0884.JPG' width='400'/>]]></description>
+            <Point id="106">
+                <coordinates>-82.84412222222221,27.919572222222225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>IMG_0885.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0885.JPG' width='400'/>]]></description>
+            <Point id="108">
+                <coordinates>-82.84412222222221,27.919552777777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>IMG_0886.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0886.JPG' width='400'/>]]></description>
+            <Point id="110">
+                <coordinates>-82.84413055555555,27.919544444444444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>IMG_0887.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0887.JPG' width='400'/>]]></description>
+            <Point id="112">
+                <coordinates>-82.84413055555555,27.91953888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>IMG_0888.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0888.JPG' width='400'/>]]></description>
+            <Point id="114">
+                <coordinates>-82.84529166666667,27.91442222222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>IMG_0889.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0889.JPG' width='400'/>]]></description>
+            <Point id="116">
+                <coordinates>-82.8453611111111,27.914330555555555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>IMG_0890.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0890.JPG' width='400'/>]]></description>
+            <Point id="118">
+                <coordinates>-82.84539722222222,27.914233333333332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>IMG_0891.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0891.JPG' width='400'/>]]></description>
+            <Point id="120">
+                <coordinates>-82.84628888888888,27.910427777777777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>IMG_0892.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0892.JPG' width='400'/>]]></description>
+            <Point id="122">
+                <coordinates>-82.84629722222222,27.910327777777777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>IMG_0893.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0893.JPG' width='400'/>]]></description>
+            <Point id="124">
+                <coordinates>-82.84632777777777,27.910244444444444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>IMG_0894.MOV</name>
+            <description><![CDATA[ <video width="400" controls> <source src='images/IMG_0893.JPG' type="video/mp4"> </video> ]]></description>
+            <Point id="126">
+                <coordinates>-82.84639999999999,27.91,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>IMG_0895.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0895.JPG' width='400'/>]]></description>
+            <Point id="128">
+                <coordinates>-82.84672499999999,27.908183333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>IMG_0896.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0896.JPG' width='400'/>]]></description>
+            <Point id="130">
+                <coordinates>-82.84677222222221,27.907888888888888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>IMG_0897.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0897.JPG' width='400'/>]]></description>
+            <Point id="132">
+                <coordinates>-82.8471,27.90615833333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>IMG_0898.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0898.JPG' width='400'/>]]></description>
+            <Point id="134">
+                <coordinates>-82.84721388888889,27.905488888888886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>IMG_0899.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0899.JPG' width='400'/>]]></description>
+            <Point id="136">
+                <coordinates>-82.84724444444444,27.905313888888887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>IMG_0900.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0900.JPG' width='400'/>]]></description>
+            <Point id="138">
+                <coordinates>-82.84728888888888,27.905080555555553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>IMG_0901.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0901.JPG' width='400'/>]]></description>
+            <Point id="140">
+                <coordinates>-82.84757222222221,27.903458333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>IMG_0902.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0902.JPG' width='400'/>]]></description>
+            <Point id="142">
+                <coordinates>-82.84764722222222,27.90301111111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>IMG_0903.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0903.JPG' width='400'/>]]></description>
+            <Point id="144">
+                <coordinates>-82.84802222222221,27.90059722222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>IMG_0904.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0904.JPG' width='400'/>]]></description>
+            <Point id="146">
+                <coordinates>-82.84806111111111,27.900402777777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>IMG_0905.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0905.JPG' width='400'/>]]></description>
+            <Point id="148">
+                <coordinates>-82.84806944444443,27.900319444444442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>IMG_0906.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0906.JPG' width='400'/>]]></description>
+            <Point id="150">
+                <coordinates>-82.8482361111111,27.899194444444444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>IMG_0907.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0907.JPG' width='400'/>]]></description>
+            <Point id="152">
+                <coordinates>-82.84825833333333,27.899091666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>IMG_0908.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0908.JPG' width='400'/>]]></description>
+            <Point id="154">
+                <coordinates>-82.84848055555555,27.89772222222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>IMG_0909.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0909.JPG' width='400'/>]]></description>
+            <Point id="156">
+                <coordinates>-82.84849444444444,27.8976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>IMG_0910.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0910.JPG' width='400'/>]]></description>
+            <Point id="158">
+                <coordinates>-82.84886944444445,27.89531111111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>IMG_0911.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0911.JPG' width='400'/>]]></description>
+            <Point id="160">
+                <coordinates>-82.84909722222221,27.893855555555554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>IMG_0912.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0912.JPG' width='400'/>]]></description>
+            <Point id="162">
+                <coordinates>-82.84935,27.89238611111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>IMG_0913.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0913.JPG' width='400'/>]]></description>
+            <Point id="164">
+                <coordinates>-82.84977777777777,27.89006111111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>IMG_0914.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0914.JPG' width='400'/>]]></description>
+            <Point id="166">
+                <coordinates>-82.85032777777778,27.887469444444445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>IMG_0915.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0915.JPG' width='400'/>]]></description>
+            <Point id="168">
+                <coordinates>-82.85045555555556,27.88293888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>IMG_0916.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0916.JPG' width='400'/>]]></description>
+            <Point id="170">
+                <coordinates>-82.85038888888889,27.880780555555557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>IMG_0917.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0917.JPG' width='400'/>]]></description>
+            <Point id="172">
+                <coordinates>-82.85034166666667,27.879783333333332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>IMG_0918.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0918.JPG' width='400'/>]]></description>
+            <Point id="174">
+                <coordinates>-82.8503361111111,27.879566666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>IMG_0919.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0919.JPG' width='400'/>]]></description>
+            <Point id="176">
+                <coordinates>-82.85029722222221,27.876247222222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>IMG_0920.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0920.JPG' width='400'/>]]></description>
+            <Point id="178">
+                <coordinates>-82.85030277777777,27.876047222222223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>IMG_0921.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0921.JPG' width='400'/>]]></description>
+            <Point id="180">
+                <coordinates>-82.84998333333333,27.871950000000002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>IMG_0922.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0922.JPG' width='400'/>]]></description>
+            <Point id="182">
+                <coordinates>-82.84996944444444,27.871844444444445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>IMG_0923.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0923.JPG' width='400'/>]]></description>
+            <Point id="184">
+                <coordinates>-82.84876944444444,27.86587777777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>IMG_0924.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0924.JPG' width='400'/>]]></description>
+            <Point id="186">
+                <coordinates>-82.84875555555556,27.86578888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>IMG_0925.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0925.JPG' width='400'/>]]></description>
+            <Point id="188">
+                <coordinates>-82.848175,27.863125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>IMG_0926.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0926.JPG' width='400'/>]]></description>
+            <Point id="190">
+                <coordinates>-82.84750277777778,27.860394444444445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>IMG_0927.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0927.JPG' width='400'/>]]></description>
+            <Point id="192">
+                <coordinates>-82.84677222222221,27.857622222222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>IMG_0928.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0928.JPG' width='400'/>]]></description>
+            <Point id="194">
+                <coordinates>-82.84468888888888,27.85141388888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>IMG_0929.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0929.JPG' width='400'/>]]></description>
+            <Point id="196">
+                <coordinates>-82.84412222222221,27.850061111111113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>IMG_0930.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0930.JPG' width='400'/>]]></description>
+            <Point id="198">
+                <coordinates>-82.84311666666666,27.847630555555554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>IMG_0931.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0931.JPG' width='400'/>]]></description>
+            <Point id="200">
+                <coordinates>-82.83869166666666,27.84,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>IMG_0932.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0932.JPG' width='400'/>]]></description>
+            <Point id="202">
+                <coordinates>-82.83854722222222,27.839788888888886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>IMG_0933.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0933.JPG' width='400'/>]]></description>
+            <Point id="204">
+                <coordinates>-82.83368055555555,27.833452777777776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>IMG_0934.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0934.JPG' width='400'/>]]></description>
+            <Point id="206">
+                <coordinates>-82.83359444444444,27.83333888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>IMG_0935.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0935.JPG' width='400'/>]]></description>
+            <Point id="208">
+                <coordinates>-82.83351111111111,27.833236111111113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
+            <name>IMG_0936.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0936.JPG' width='400'/>]]></description>
+            <Point id="210">
+                <coordinates>-82.8321,27.83138611111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>IMG_0937.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0937.JPG' width='400'/>]]></description>
+            <Point id="212">
+                <coordinates>-82.83203888888889,27.83130277777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>IMG_0938.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0938.JPG' width='400'/>]]></description>
+            <Point id="214">
+                <coordinates>-82.82983333333333,27.82756388888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>IMG_0939.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0939.JPG' width='400'/>]]></description>
+            <Point id="216">
+                <coordinates>-82.82974166666666,27.827380555555557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>IMG_0940.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0940.JPG' width='400'/>]]></description>
+            <Point id="218">
+                <coordinates>-82.82963611111111,27.827130555555556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>IMG_0941.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0941.JPG' width='400'/>]]></description>
+            <Point id="220">
+                <coordinates>-82.82871944444445,27.824997222222223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>IMG_0942.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0942.JPG' width='400'/>]]></description>
+            <Point id="222">
+                <coordinates>-82.82741388888888,27.82269722222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>IMG_0943.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0943.JPG' width='400'/>]]></description>
+            <Point id="224">
+                <coordinates>-82.82720277777777,27.822377777777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>IMG_0944.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0944.JPG' width='400'/>]]></description>
+            <Point id="226">
+                <coordinates>-82.82706388888889,27.82218333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>IMG_0945.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0945.JPG' width='400'/>]]></description>
+            <Point id="228">
+                <coordinates>-82.82630277777777,27.821183333333334,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>IMG_0946.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0946.JPG' width='400'/>]]></description>
+            <Point id="230">
+                <coordinates>-82.82611944444444,27.820958333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>IMG_0947.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0947.JPG' width='400'/>]]></description>
+            <Point id="232">
+                <coordinates>-82.8254861111111,27.820252777777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="235">
+            <name>IMG_0949.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0949.JPG' width='400'/>]]></description>
+            <Point id="234">
+                <coordinates>-82.82287777777778,27.817727777777776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>IMG_0950.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0950.JPG' width='400'/>]]></description>
+            <Point id="236">
+                <coordinates>-82.82269444444444,27.817544444444444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="239">
+            <name>IMG_0951.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0951.JPG' width='400'/>]]></description>
+            <Point id="238">
+                <coordinates>-82.82100555555556,27.81593888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="241">
+            <name>IMG_0952.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0952.JPG' width='400'/>]]></description>
+            <Point id="240">
+                <coordinates>-82.81977777777777,27.81476388888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>IMG_0953.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0953.JPG' width='400'/>]]></description>
+            <Point id="242">
+                <coordinates>-82.81951111111111,27.814522222222223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <name>IMG_0955.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0955.JPG' width='400'/>]]></description>
+            <Point id="244">
+                <coordinates>-82.81097222222222,27.80818888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="247">
+            <name>IMG_0956.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0956.JPG' width='400'/>]]></description>
+            <Point id="246">
+                <coordinates>-82.80660277777777,27.80518888888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>IMG_0957.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0957.JPG' width='400'/>]]></description>
+            <Point id="248">
+                <coordinates>-82.79723333333334,27.797722222222223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="251">
+            <name>IMG_0958.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0958.JPG' width='400'/>]]></description>
+            <Point id="250">
+                <coordinates>-82.79426388888889,27.795369444444447,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>IMG_0959.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0959.JPG' width='400'/>]]></description>
+            <Point id="252">
+                <coordinates>-82.79126666666666,27.793041666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>IMG_0960.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0960.JPG' width='400'/>]]></description>
+            <Point id="254">
+                <coordinates>-82.79117777777778,27.792969444444445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="257">
+            <name>IMG_0961.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0961.JPG' width='400'/>]]></description>
+            <Point id="256">
+                <coordinates>-82.789475,27.791697222222226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="259">
+            <name>IMG_0962.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0962.JPG' width='400'/>]]></description>
+            <Point id="258">
+                <coordinates>-82.78922222222222,27.79152777777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>IMG_0963.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0963.JPG' width='400'/>]]></description>
+            <Point id="260">
+                <coordinates>-82.78830555555555,27.790736111111112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <name>IMG_0964.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0964.JPG' width='400'/>]]></description>
+            <Point id="262">
+                <coordinates>-82.78685833333333,27.789172222222223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="265">
+            <name>IMG_0965.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0965.JPG' width='400'/>]]></description>
+            <Point id="264">
+                <coordinates>-82.78604166666666,27.788280555555556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <name>IMG_0966.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0966.JPG' width='400'/>]]></description>
+            <Point id="266">
+                <coordinates>-82.78487222222222,27.787022222222223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>IMG_0967.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0967.JPG' width='400'/>]]></description>
+            <Point id="268">
+                <coordinates>-82.78383611111111,27.785880555555558,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>IMG_0968.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0968.JPG' width='400'/>]]></description>
+            <Point id="270">
+                <coordinates>-82.78123611111111,27.780158333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>IMG_0969.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0969.JPG' width='400'/>]]></description>
+            <Point id="272">
+                <coordinates>-82.78056388888889,27.779497222222222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>IMG_0970.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0970.JPG' width='400'/>]]></description>
+            <Point id="274">
+                <coordinates>-82.77964722222222,27.77836111111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>IMG_0971.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0971.JPG' width='400'/>]]></description>
+            <Point id="276">
+                <coordinates>-82.77855,27.776727777777776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>IMG_0972.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0972.JPG' width='400'/>]]></description>
+            <Point id="278">
+                <coordinates>-82.77780833333333,27.776269444444445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>IMG_0973.MOV</name>
+            <description><![CDATA[ <video width="400" controls> <source src='images/IMG_0972.JPG' type="video/mp4"> </video> ]]></description>
+            <Point id="280">
+                <coordinates>-82.7711,27.770899999999997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>IMG_0974.MOV</name>
+            <description><![CDATA[ <video width="400" controls> <source src='images/IMG_0972.JPG' type="video/mp4"> </video> ]]></description>
+            <Point id="282">
+                <coordinates>-82.769,27.7682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>IMG_0975.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0975.JPG' width='400'/>]]></description>
+            <Point id="284">
+                <coordinates>-82.76754722222222,27.764919444444445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>IMG_0976.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0976.JPG' width='400'/>]]></description>
+            <Point id="286">
+                <coordinates>-82.76747222222222,27.764747222222223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>IMG_0977.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0977.JPG' width='400'/>]]></description>
+            <Point id="288">
+                <coordinates>-82.76641111111111,27.761941666666665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>IMG_0978.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0978.JPG' width='400'/>]]></description>
+            <Point id="290">
+                <coordinates>-82.76574722222222,27.759525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>IMG_0979.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0979.JPG' width='400'/>]]></description>
+            <Point id="292">
+                <coordinates>-82.76520555555555,27.75781388888889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>IMG_0980.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0980.JPG' width='400'/>]]></description>
+            <Point id="294">
+                <coordinates>-82.75995555555555,27.756255555555555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>IMG_0981.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0981.JPG' width='400'/>]]></description>
+            <Point id="296">
+                <coordinates>-82.75450833333333,27.7488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="299">
+            <name>IMG_0982.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0982.JPG' width='400'/>]]></description>
+            <Point id="298">
+                <coordinates>-82.75420277777778,27.748322222222225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="301">
+            <name>IMG_0984.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0984.JPG' width='400'/>]]></description>
+            <Point id="300">
+                <coordinates>-82.74617777777777,27.734230555555555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>IMG_0985.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0985.JPG' width='400'/>]]></description>
+            <Point id="302">
+                <coordinates>-82.74433888888889,27.731388888888887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="305">
+            <name>IMG_0986.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0986.JPG' width='400'/>]]></description>
+            <Point id="304">
+                <coordinates>-82.74221944444444,27.72708611111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="307">
+            <name>IMG_0989.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0989.JPG' width='400'/>]]></description>
+            <Point id="306">
+                <coordinates>-82.7389,27.7171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>IMG_0990.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0990.JPG' width='400'/>]]></description>
+            <Point id="308">
+                <coordinates>-82.73872222222222,27.71663611111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>IMG_0991.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0991.JPG' width='400'/>]]></description>
+            <Point id="310">
+                <coordinates>-82.73866944444444,27.716413888888887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="313">
+            <name>IMG_0992.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0992.JPG' width='400'/>]]></description>
+            <Point id="312">
+                <coordinates>-82.73864722222223,27.716294444444443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>IMG_0993.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0993.JPG' width='400'/>]]></description>
+            <Point id="314">
+                <coordinates>-82.73827222222222,27.71503611111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="317">
+            <name>IMG_0994.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0994.JPG' width='400'/>]]></description>
+            <Point id="316">
+                <coordinates>-82.73799166666667,27.714016666666666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="319">
+            <name>IMG_0995.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0995.JPG' width='400'/>]]></description>
+            <Point id="318">
+                <coordinates>-82.73751111111112,27.711791666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>IMG_0996.MOV</name>
+            <description><![CDATA[ <video width="400" controls> <source src='images/IMG_0995.JPG' type="video/mp4"> </video> ]]></description>
+            <Point id="320">
+                <coordinates>-82.7195,27.6902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="323">
+            <name>IMG_0998.JPG</name>
+            <description><![CDATA[<img src='images/IMG_0998.JPG' width='400'/>]]></description>
+            <Point id="322">
+                <coordinates>-82.72210555555556,27.67055277777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
